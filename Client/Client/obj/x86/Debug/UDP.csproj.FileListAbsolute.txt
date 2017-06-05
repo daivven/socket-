@@ -1,0 +1,11 @@
+D:\WorkSpaces\WebDevelop\UDP\UDP\bin\Debug\UDP.exe
+D:\WorkSpaces\WebDevelop\UDP\UDP\bin\Debug\UDP.pdb
+D:\WorkSpaces\WebDevelop\UDP\UDP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WorkSpaces\WebDevelop\UDP\UDP\obj\x86\Debug\UDP.Properties.Resources.resources
+D:\WorkSpaces\WebDevelop\UDP\UDP\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\WorkSpaces\WebDevelop\UDP\UDP\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\WorkSpaces\WebDevelop\UDP\UDP\obj\x86\Debug\UDP.exe
+D:\WorkSpaces\WebDevelop\UDP\UDP\obj\x86\Debug\UDP.pdb
+D:\WorkSpaces\WebDevelop\UDP\UDP\obj\x86\Debug\UDP.MainlForm.resources
+F:\Socket\UDP\UDP客户端\UDP\obj\x86\Debug\UDP.exe
+F:\Socket\UDP\UDP客户端\UDP\obj\x86\Debug\UDP.pdb

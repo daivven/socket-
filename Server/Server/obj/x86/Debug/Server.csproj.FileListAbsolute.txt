@@ -1,0 +1,16 @@
+F:\Socket\UDP\Server\Server\bin\Debug\Server.exe
+F:\Socket\UDP\Server\Server\bin\Debug\Server.pdb
+F:\Socket\UDP\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Socket\UDP\Server\Server\obj\x86\Debug\Server.MainForm.resources
+F:\Socket\UDP\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+F:\Socket\UDP\Server\Server\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Socket\UDP\Server\Server\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Socket\UDP\Server\Server\obj\x86\Debug\Server.exe
+F:\Socket\UDP\Server\Server\obj\x86\Debug\Server.pdb
+D:\Example\C#基于UDP协议的Socket通信整套源码（包括发送端和接收端）【京华志】\Server\Server\obj\x86\Debug\Server.exe
+D:\Example\C#基于UDP协议的Socket通信整套源码（包括发送端和接收端）【京华志】\Server\Server\obj\x86\Debug\Server.pdb
+D:\Example\C#基于UDP协议的Socket通信整套源码（包括发送端和接收端）【京华志】\Server\Server\bin\Debug\Server.exe
+D:\Example\C#基于UDP协议的Socket通信整套源码（包括发送端和接收端）【京华志】\Server\Server\bin\Debug\Server.pdb
+D:\Example\C#基于UDP协议的Socket通信整套源码（包括发送端和接收端）【京华志】\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Example\C#基于UDP协议的Socket通信整套源码（包括发送端和接收端）【京华志】\Server\Server\obj\x86\Debug\Server.MainForm.resources
+D:\Example\C#基于UDP协议的Socket通信整套源码（包括发送端和接收端）【京华志】\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
